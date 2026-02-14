@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **my belief in creating impact at scale.**
 
-- 📫 How to reach me **chanchal151003@gmail.com**
+- 📫 How to reach me **ranvijayyrathore@gmail.com**
 
 - ⚡ Fun fact **Most of the ideas start as jokes and end as products.**
 
@@ -35,8 +35,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chanchalrathore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chanchalrathore" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchalsinghrathore&show_icons=true&locale=en&layout=compact" alt="chanchalsinghrathore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanchalsinghrathore&" alt="chanchalsinghrathore" /></p>
 
 
